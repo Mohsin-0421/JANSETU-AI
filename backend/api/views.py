@@ -7,7 +7,7 @@ from .models import Challenge, ProblemDNA, University, Industry
 from .serializers import ChallengeSerializer, UniversitySerializer, IndustrySerializer
 
 # Member 3 AI Engine Base URL
-AI_BASE_URL = "http://192.168.1.79:8000"
+AI_BASE_URL = "http://127.0.0.1:8001"
 
 class ChallengeViewSet(viewsets.ModelViewSet):
     queryset = Challenge.objects.all().order_by('-created_at')
