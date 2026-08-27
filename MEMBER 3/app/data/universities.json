@@ -1,0 +1,52 @@
+[
+  {
+    "id": "UNI001",
+    "name": "JNTU Hyderabad",
+    "expertise": [
+      "Civil Engineering",
+      "IoT",
+      "GIS",
+      "Data Science",
+      "Sensors",
+      "Predictive Analytics",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "id": "UNI002",
+    "name": "IIT Hyderabad",
+    "expertise": [
+      "Artificial Intelligence",
+      "IoT",
+      "Data Science",
+      "Machine Learning",
+      "Sensors",
+      "GIS",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "UNI003",
+    "name": "Osmania University",
+    "expertise": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Data Science",
+      "Water Management",
+      "GIS"
+    ]
+  },
+  {
+    "id": "UNI004",
+    "name": "Agricultural University",
+    "expertise": [
+      "Agricultural Engineering",
+      "IoT",
+      "Soil Sensors",
+      "Smart Irrigation",
+      "Data Science",
+      "Machine Learning"
+    ]
+  }
+]
+

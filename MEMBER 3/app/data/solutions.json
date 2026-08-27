@@ -1,0 +1,55 @@
+[
+  {
+    "id": "SOL001",
+    "name": "FloodSense",
+    "problem": "Village roads and residential areas get flooded during heavy rainfall and monsoon seasons.",
+    "solution_description": "An IoT-based flood monitoring system using water-level sensors, GIS mapping and predictive analytics to provide early warnings.",
+    "technologies": [
+      "IoT",
+      "Water Level Sensors",
+      "GIS",
+      "Predictive Analytics"
+    ],
+    "deployed_at": "Village Y",
+    "domain": "Infrastructure"
+  },
+  {
+    "id": "SOL002",
+    "name": "Smart Irrigation System",
+    "problem": "Farmers face water shortages and inefficient irrigation causing crop losses.",
+    "solution_description": "A smart irrigation platform using soil sensors, IoT devices and automated water management.",
+    "technologies": [
+      "IoT",
+      "Soil Sensors",
+      "Smart Irrigation"
+    ],
+    "deployed_at": "Rural Agriculture Zone",
+    "domain": "Agriculture"
+  },
+  {
+    "id": "SOL003",
+    "name": "AirWatch",
+    "problem": "Urban areas experience high levels of air pollution affecting public health.",
+    "solution_description": "An air quality monitoring network using environmental sensors, cloud analytics and predictive models.",
+    "technologies": [
+      "Air Quality Sensors",
+      "Cloud Computing",
+      "Predictive Analytics"
+    ],
+    "deployed_at": "City Z",
+    "domain": "Environment"
+  },
+  {
+    "id": "SOL004",
+    "name": "WaterSafe",
+    "problem": "Communities lack access to clean drinking water and face contamination issues.",
+    "solution_description": "A water quality monitoring solution using IoT sensors and real-time contamination analytics.",
+    "technologies": [
+      "IoT",
+      "Water Quality Sensors",
+      "Data Analytics"
+    ],
+    "deployed_at": "Village Water Network",
+    "domain": "Water & Sanitation"
+  }
+]

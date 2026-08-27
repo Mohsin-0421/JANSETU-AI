@@ -1,0 +1,61 @@
+[
+  {
+    "id": "IND001",
+    "name": "Tech Mahindra",
+    "capabilities": [
+      "IoT",
+      "Data Science",
+      "Artificial Intelligence",
+      "Sensors",
+      "Predictive Analytics",
+      "Cloud Computing",
+      "GIS"
+    ]
+  },
+  {
+    "id": "IND002",
+    "name": "L&T Technology Services",
+    "capabilities": [
+      "Civil Engineering",
+      "IoT",
+      "Sensors",
+      "GIS",
+      "Infrastructure Monitoring",
+      "Data Analytics"
+    ]
+  },
+  {
+    "id": "IND003",
+    "name": "Tata Consultancy Services",
+    "capabilities": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Machine Learning",
+      "IoT",
+      "Cloud Computing",
+      "Predictive Analytics"
+    ]
+  },
+  {
+    "id": "IND004",
+    "name": "Wipro",
+    "capabilities": [
+      "Data Science",
+      "IoT",
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "Data Analytics"
+    ]
+  },
+  {
+    "id": "IND005",
+    "name": "Bosch Engineering",
+    "capabilities": [
+      "Sensors",
+      "IoT",
+      "Predictive Analytics",
+      "Embedded Systems",
+      "Computer Vision"
+    ]
+  }
+]
